@@ -17,7 +17,7 @@ List of things that people are claiming is enabled by GPT3. unverified but links
 - "racecar for the mind" https://twitter.com/zebulgar/status/1284294275430117376?s=20
 - Tempering expectations https://minimaxir.com/2020/07/gpt3-expectations/
 
-> However, a 30-40% success rate implies a 60-70% failure rate, which is patently unsuitable for a production application. If it takes seconds to generate a React component and it takes on average 3 tries to get something usable, it might be more pragmatic to just create the component the hard, boring way. Compare again to Apple’s Siri, which can get very frustrating when it performs the wrong action.
+> However, a 30-40% success rate implies **a 60-70% failure rate**, which is patently unsuitable for a production application. If it takes seconds to generate a React component and it takes on average 3 tries to get something usable, it might be more pragmatic to just create the component the hard, boring way. Compare again to Apple’s Siri, which can get very frustrating when it performs the wrong action.
 
 ## Projects/Startups
 
@@ -93,6 +93,7 @@ List of things that people are claiming is enabled by GPT3. unverified but links
   - https://twitter.com/lacker/status/1279136788326432771?s=20
 - Bias
   - https://twitter.com/an_open_mind/status/1284487376312709120?s=20
+  - racism/sexism https://twitter.com/AnimaAnandkumar/status/1271137176529416193?s=20
   
 ## Funny
 
