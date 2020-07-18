@@ -6,10 +6,11 @@ List of things that people are claiming is enabled by GPT3. unverified but links
 
 - "racecar for the mind" https://twitter.com/zebulgar/status/1284294275430117376?s=20
 
-## Projects
+## Projects/Startups
 
 - AI Dungeon https://twitter.com/nickwalton00/status/1283143210999484416?s=20
 - Debuild.co (codegen) https://docs.google.com/forms/d/e/1FAIpQLSeI-QTsXJV0cF5MuB7RwgA0QdHEWn7E6zrs7dCHDLHA3s64Dg/viewform
+- AI Channels https://andrewmayneblog.wordpress.com/2020/06/11/the-aichannels-project/
 
 ## Code
 
@@ -72,6 +73,7 @@ List of things that people are claiming is enabled by GPT3. unverified but links
 - Turing test
   - http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html (origin https://twitter.com/nabeelqu/status/1284167539141087232?s=20)
     - you can warn about nonsense qtns https://twitter.com/xuenay/status/1284053165483143172?s=20
+  - https://aiweirdness.com/post/621186154843324416/all-your-questions-answered
 - Technical Interviews
   - https://twitter.com/lacker/status/1279136788326432771?s=20
 - Bias
