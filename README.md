@@ -4,8 +4,8 @@ List of things that people are claiming is enabled by GPT3. unverified but links
 
 ## Official info
 
-- https://github.com/openai/gpt-3
 - Official paper https://arxiv.org/abs/2005.14165
+  - GitHub: https://github.com/openai/gpt-3
   - HN: https://news.ycombinator.com/item?id=23345379
   - criticism https://www.lesswrong.com/posts/ZHrpjDc3CepSeeBuE/gpt-3-a-disappointing-paper
   - nvidia summnary https://news.developer.nvidia.com/openai-presents-gpt-3-a-175-billion-parameters-language-model/
