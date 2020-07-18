@@ -92,8 +92,8 @@ List of things that people are claiming is enabled by GPT3. unverified but links
 - Technical Interviews
   - https://twitter.com/lacker/status/1279136788326432771?s=20
 - Bias
-  - https://twitter.com/an_open_mind/status/1284487376312709120?s=20
   - racism/sexism https://twitter.com/AnimaAnandkumar/status/1271137176529416193?s=20
+  - antisemitic https://twitter.com/an_open_mind/status/1284487376312709120
   
 ## Funny
 
