@@ -99,3 +99,4 @@ List of things that people are claiming is enabled by GPT3. unverified but links
 ## Funny
 
 - https://twitter.com/SC_Griffith/status/1283416905043279873?s=20
+- religion https://twitter.com/flantz/status/1284322274313752576?s=20
