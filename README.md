@@ -12,6 +12,8 @@ List of things that people are claiming is enabled by GPT3. unverified but links
   - venturebeat summary https://venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/
 - beta signup https://beta.openai.com/
 
+another list like this one https://gpt-3.is/
+
 ## Good takes
 
 - "racecar for the mind" https://twitter.com/zebulgar/status/1284294275430117376?s=20
