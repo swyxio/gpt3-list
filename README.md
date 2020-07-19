@@ -15,6 +15,7 @@ List of things that people are claiming is enabled by GPT3. unverified but links
 ## Good takes
 
 - "racecar for the mind" https://twitter.com/zebulgar/status/1284294275430117376?s=20
+- polluting gpt4 https://twitter.com/karpathy/status/1284660899198820352?s=20
 - Tempering expectations https://minimaxir.com/2020/07/gpt3-expectations/
 
 > However, a 30-40% success rate implies **a 60-70% failure rate**, which is patently unsuitable for a production application. If it takes seconds to generate a React component and it takes on average 3 tries to get something usable, it might be more pragmatic to just create the component the hard, boring way. Compare again to Apple’s Siri, which can get very frustrating when it performs the wrong action.
@@ -25,6 +26,8 @@ List of things that people are claiming is enabled by GPT3. unverified but links
 - Debuild.co (codegen) https://docs.google.com/forms/d/e/1FAIpQLSeI-QTsXJV0cF5MuB7RwgA0QdHEWn7E6zrs7dCHDLHA3s64Dg/viewform
 - AI Channels https://andrewmayneblog.wordpress.com/2020/06/11/the-aichannels-project/
 - Suhail browser autocomplete https://twitter.com/Suhail/status/1284562825084416000?s=20
+- Search Engine https://twitter.com/paraschopra/status/1284801028676653060?s=20
+
 
 ## Code
 
@@ -72,6 +75,7 @@ List of things that people are claiming is enabled by GPT3. unverified but links
   - https://twitter.com/nicklovescode/status/1282471881887473666?s=20
 - Creative Fiction
   - https://www.gwern.net/GPT-3
+  - NPC text? 
 - Non English Languages
   - https://towardsdatascience.com/gpt-3-creative-potential-of-nlp-d5ccae16c1ab
 - Emulating famous people
