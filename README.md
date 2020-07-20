@@ -99,6 +99,8 @@ another list like this one https://gpt-3.is/
   - https://aiweirdness.com/post/621186154843324416/all-your-questions-answered
 - Technical Interviews
   - https://twitter.com/lacker/status/1279136788326432771?s=20
+- memory
+  - https://twitter.com/karpathy/status/1284928564530278400?s=20
 - Bias
   - racism/sexism https://twitter.com/AnimaAnandkumar/status/1271137176529416193?s=20
   - antisemitic https://twitter.com/an_open_mind/status/1284487376312709120
