@@ -8,7 +8,7 @@ List of things that people are claiming is enabled by GPT3. unverified but links
   - GitHub: https://github.com/openai/gpt-3
   - HN: https://news.ycombinator.com/item?id=23345379
   - criticism https://www.lesswrong.com/posts/ZHrpjDc3CepSeeBuE/gpt-3-a-disappointing-paper
-  - nvidia summnary https://news.developer.nvidia.com/openai-presents-gpt-3-a-175-billion-parameters-language-model/
+  - nvidia summary https://news.developer.nvidia.com/openai-presents-gpt-3-a-175-billion-parameters-language-model/
   - venturebeat summary https://venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/
 - beta signup https://beta.openai.com/
 
@@ -84,7 +84,7 @@ another list like this one https://gpt-3.is/
 - Emulating famous people
   - https://twitter.com/paraschopra/status/1284423029443850240?s=20
   - john carmack https://twitter.com/kirkouimet/status/1283231652609552384?s=20
-- Esssay completion
+- Essay completion
   - https://twitter.com/zebulgar/status/1283927560435326976?s=20
   - https://twitter.com/zebulgar/status/1283921361627344896?s=20
   - tweet completion https://twitter.com/Plinz/status/1283211048145711104?s=20
