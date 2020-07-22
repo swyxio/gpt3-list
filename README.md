@@ -68,6 +68,7 @@ another list like this one https://gpt-3.is/
 
 - Medical questions: https://twitter.com/xuenay/status/1283376153156362242?s=20
 - Law: https://twitter.com/f_j_j_/status/1283349995144359937
+- Presentations: https://twitter.com/bemmu/status/1285284131656445952?s=20
 
 ## General Text
 
