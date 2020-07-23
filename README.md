@@ -20,6 +20,8 @@ another list like this one https://gpt-3.is/
 - polluting gpt4 https://twitter.com/karpathy/status/1284660899198820352?s=20
 - precision and specification https://twitter.com/JoeHughesDev/status/1284985137298575366?s=20
 - more applications https://nesslabs.com/gpt-3-future-productivity
+- makes SWEs more valuable https://davnicwil.com/ai-writing-code-makes-software-engineers-more-valuable/
+- "beginning of the end" https://kitze.io/posts/gpt3-is-the-beginning-of-the-end
 - Tempering expectations https://minimaxir.com/2020/07/gpt3-expectations/
 
 > However, a 30-40% success rate implies **a 60-70% failure rate**, which is patently unsuitable for a production application. If it takes seconds to generate a React component and it takes on average 3 tries to get something usable, it might be more pragmatic to just create the component the hard, boring way. Compare again to Apple’s Siri, which can get very frustrating when it performs the wrong action.
