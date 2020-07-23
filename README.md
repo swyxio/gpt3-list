@@ -43,6 +43,8 @@ another list like this one https://gpt-3.is/
   - Small button counters https://twitter.com/sharifshameem/status/1284095222939451393?s=20
   - Todo-list https://twitter.com/sharifshameem/status/1284421499915403264?s=20
   - based on variable name https://twitter.com/hturan/status/1282261783147958272?s=20
+- SQL
+  - https://twitter.com/FaraazNishtar/status/1285934622891667457?s=20
 - Swift UI
   - https://twitter.com/jsngr/status/1284518632878477312?s=20
 - shell commands
