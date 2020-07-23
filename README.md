@@ -47,6 +47,9 @@ another list like this one https://gpt-3.is/
   - https://twitter.com/jsngr/status/1284518632878477312?s=20
 - shell commands
   - https://twitter.com/harlandduman/status/1282132804034150400?s=20
+- regex
+  - https://twitter.com/mathdroid/status/1286266220505833473?s=20
+
 
 ## Design
 
