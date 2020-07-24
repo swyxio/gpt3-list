@@ -33,7 +33,7 @@ another list like this one https://gpt-3.is/
 - AI Channels https://andrewmayneblog.wordpress.com/2020/06/11/the-aichannels-project/
 - Suhail browser autocomplete https://twitter.com/Suhail/status/1284562825084416000?s=20
 - Search Engine https://twitter.com/paraschopra/status/1284801028676653060?s=20
-
+- Email completion https://twitter.com/OthersideAI/status/1285776335638614017?s=20
 
 ## Code
 
