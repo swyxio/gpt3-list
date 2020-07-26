@@ -28,6 +28,16 @@ another list like this one https://gpt-3.is/
 
 > However, a 30-40% success rate implies **a 60-70% failure rate**, which is patently unsuitable for a production application. If it takes seconds to generate a React component and it takes on average 3 tries to get something usable, it might be more pragmatic to just create the component the hard, boring way. Compare again to Apple’s Siri, which can get very frustrating when it performs the wrong action.
 
+More:
+
+- https://twitter.com/michael_nielsen/status/1284937254666768384?s=20
+- https://maraoz.com/2020/07/18/openai-gpt3/
+- https://youtube.com/watch?v=SY5PvZrJhLE&feature=youtu.be
+- https://youtube.com/watch?v=S0KakHcj_rs
+- Andrew Ng https://youtube.com/watch?v=SysgYptB198
+- @AnalyticsVidhya: https://analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/
+- @JayAlammar: http://jalammar.github.io/illustrated-transformer/
+
 ## Projects/Startups
 
 - AI Dungeon https://twitter.com/nickwalton00/status/1283143210999484416?s=20
