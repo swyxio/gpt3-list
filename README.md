@@ -97,6 +97,7 @@ More:
   - Music https://twitter.com/TomWhitwell/status/1283997889887383564?s=20
   - https://twitter.com/Siddharth87/status/1283920116007092224?s=20
   - philosophy https://twitter.com/quasimondo/status/1284422930710102016?s=20
+  - tweets https://thoughts.sushant-kumar.com/hong%20kong
 - Poetry
   - https://twitter.com/nicklovescode/status/1282471881887473666?s=20
 - Creative Fiction
