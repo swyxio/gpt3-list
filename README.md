@@ -10,6 +10,7 @@ List of things that people are claiming is enabled by GPT3. unverified but links
   - criticism https://www.lesswrong.com/posts/ZHrpjDc3CepSeeBuE/gpt-3-a-disappointing-paper
   - nvidia summary https://news.developer.nvidia.com/openai-presents-gpt-3-a-175-billion-parameters-language-model/
   - venturebeat summary https://venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/
+  - how it works visualized/animated https://jalammar.github.io/how-gpt3-works-visualizations-animations/
 - beta signup https://beta.openai.com/
 
 another list like this one https://gpt-3.is/
