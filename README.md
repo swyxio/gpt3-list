@@ -46,7 +46,7 @@ More:
 - AI Channels https://andrewmayneblog.wordpress.com/2020/06/11/the-aichannels-project/
 - Suhail browser autocomplete https://twitter.com/Suhail/status/1284562825084416000?s=20
 - Search Engine https://twitter.com/paraschopra/status/1284801028676653060?s=20
-- Email completion https://twitter.com/OthersideAI/status/1285776335638614017?s=20
+- QuickResponse (Email completion) https://twitter.com/OthersideAI/status/1285776335638614017?s=20
 - Lossless (english to regex) https://losslesshq.com/
 - Replit Code Oracle - code querying https://twitter.com/amasad/status/1285959600584265729?s=20
 
@@ -62,17 +62,26 @@ More:
   - based on variable name https://twitter.com/hturan/status/1282261783147958272?s=20
 - SQL
   - https://twitter.com/FaraazNishtar/status/1285934622891667457?s=20
+- Keras Models
+  - https://twitter.com/mattshumer_/status/1287125015528341506
 - Swift UI
   - https://twitter.com/jsngr/status/1284518632878477312?s=20
 - shell commands
   - https://twitter.com/harlandduman/status/1282132804034150400?s=20
 - regex
   - https://twitter.com/mathdroid/status/1286266220505833473?s=20
-
+  - https://twitter.com/parthi_logan/status/1286818567631982593?s=20
+- Google
+  - Sheets https://twitter.com/pavtalk/status/1285410751092416513?s=20
+  - Docs https://twitter.com/IntuitMachine/status/1286974653345542145?s=20
 
 ## Design
 
 - Figma https://twitter.com/jsngr/status/1284511080715362304?s=20
+
+## Finance
+
+- financial statements https://twitter.com/itsyashdani/status/1285695850300219392?s=20
 
 ## Music
 
