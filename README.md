@@ -130,6 +130,7 @@ More:
 - Turing test
   - http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html (origin https://twitter.com/nabeelqu/status/1284167539141087232?s=20)
     - you can warn about nonsense qtns https://twitter.com/xuenay/status/1284053165483143172?s=20
+    - you can give uncertainty prompts "yo be real" https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/
   - https://aiweirdness.com/post/621186154843324416/all-your-questions-answered
 - Technical Interviews
   - https://twitter.com/lacker/status/1279136788326432771?s=20
