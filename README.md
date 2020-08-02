@@ -25,6 +25,7 @@ another list like this one https://gpt-3.is/
 - "beginning of the end" https://kitze.io/posts/gpt3-is-the-beginning-of-the-end
 - Astroturfing risk https://jayriverlong.github.io/2020/07/24/gpt3.html
   > GPT-3 marks a new generation of tools enabling states to interfere in online discourse with unprecedented scale and persuasiveness, enabling great damage at low cost.
+- a16z What's hype, What's real: https://a16z.com/2020/07/29/16mins-gpt3-natural-language-neural-net-deep-learning-few-shot-zero-shot/
 - Tempering expectations https://minimaxir.com/2020/07/gpt3-expectations/
 
 > However, a 30-40% success rate implies **a 60-70% failure rate**, which is patently unsuitable for a production application. If it takes seconds to generate a React component and it takes on average 3 tries to get something usable, it might be more pragmatic to just create the component the hard, boring way. Compare again to Apple’s Siri, which can get very frustrating when it performs the wrong action.
