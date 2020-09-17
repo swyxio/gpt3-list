@@ -55,7 +55,7 @@ More:
 - Lossless (english to regex) https://losslesshq.com/
 - Replit Code Oracle - code querying https://twitter.com/amasad/status/1285959600584265729?s=20
 - Explain Like I'm Five https://twitter.com/chris__lu/status/1284535970164088832?s=20
-- Taglines.ai https://twitter.com/chris__lu/status/1290426666477592576?s=20
+- [Taglines.ai](https://www.taglines.ai/) https://twitter.com/chris__lu/status/1290426666477592576?s=20
 
 ## Code
 
