@@ -52,6 +52,7 @@ More:
 - Suhail browser autocomplete https://twitter.com/Suhail/status/1284562825084416000?s=20
 - Search Engine https://twitter.com/paraschopra/status/1284801028676653060?s=20
 - QuickResponse (Email completion) https://twitter.com/OthersideAI/status/1285776335638614017?s=20
+  - QuickChat https://blog.quickchat.ai/post/knowledge-base-chat-bot/
 - Lossless (english to regex) https://losslesshq.com/
 - Replit Code Oracle - code querying https://twitter.com/amasad/status/1285959600584265729?s=20
 - Explain Like I'm Five https://twitter.com/chris__lu/status/1284535970164088832?s=20
