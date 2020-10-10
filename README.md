@@ -59,6 +59,7 @@ More:
 - [Taglines.ai](https://www.taglines.ai/) https://twitter.com/chris__lu/status/1290426666477592576?s=20
 - AI email composer https://compose.ai/
 - AI video creator https://www.synthesia.io/
+- Philosopher.ai philosopher prompting 
 
 
 ## Code
@@ -143,6 +144,7 @@ More:
     - you can warn about nonsense qtns https://twitter.com/xuenay/status/1284053165483143172?s=20
     - you can give uncertainty prompts "yo be real" https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/
   - https://aiweirdness.com/post/621186154843324416/all-your-questions-answered
+  - inhuman response times https://www.kmeme.com/2020/10/gpt-3-bot-went-undetected-askreddit-for.html?m=1
 - Technical Interviews
   - https://twitter.com/lacker/status/1279136788326432771?s=20
 - memory
