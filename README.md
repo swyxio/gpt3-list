@@ -34,6 +34,20 @@ another list like this one https://gpt-3.is/
 
 GPT3 responding to GPT3 takes: https://twitter.com/raphamilliere/status/1289129723310886912?s=20
 
+
+
+<details>
+<summary>
+  
+[Yann LeCun take](https://www.facebook.com/yann.lecun/posts/10157253205637143?notif_id=1603803722095314&notif_t=story_reshare&ref=notif) endorsing [Nabla health's article](https://www.nabla.com/blog/gpt-3/)
+  
+</summary>
+
+![image](https://user-images.githubusercontent.com/6764957/97315898-2470af80-18a4-11eb-9d07-f37b7785fd3b.png)
+
+
+</details>
+
 More:
 
 - https://twitter.com/michael_nielsen/status/1284937254666768384?s=20
