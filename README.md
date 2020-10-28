@@ -73,6 +73,7 @@ More:
 - [Taglines.ai](https://www.taglines.ai/) https://twitter.com/chris__lu/status/1290426666477592576?s=20
 - AI email composer https://compose.ai/
 - AI video creator https://www.synthesia.io/
+- https://www.copysmith.ai/ This startup is using GPT-3 for content marketing, just tried it out and it's surprisingly good at generating 2-3 sentence pitches (going off of some key words and a brief description) 
 - Philosopher.ai philosopher prompting 
 
 
