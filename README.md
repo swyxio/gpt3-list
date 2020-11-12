@@ -61,7 +61,7 @@ More:
 ## Projects/Startups
 
 - AI Dungeon https://twitter.com/nickwalton00/status/1283143210999484416?s=20
-- Debuild.co (codegen) https://docs.google.com/forms/d/e/1FAIpQLSeI-QTsXJV0cF5MuB7RwgA0QdHEWn7E6zrs7dCHDLHA3s64Dg/viewform
+- Debuild.co (text to codegen) https://docs.google.com/forms/d/e/1FAIpQLSeI-QTsXJV0cF5MuB7RwgA0QdHEWn7E6zrs7dCHDLHA3s64Dg/viewform
 - AI Channels https://andrewmayneblog.wordpress.com/2020/06/11/the-aichannels-project/
 - Suhail browser autocomplete https://twitter.com/Suhail/status/1284562825084416000?s=20
 - Search Engine https://twitter.com/paraschopra/status/1284801028676653060?s=20
