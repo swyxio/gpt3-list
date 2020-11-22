@@ -61,7 +61,9 @@ More:
 ## Projects/Startups
 
 - AI Dungeon https://twitter.com/nickwalton00/status/1283143210999484416?s=20
-- Debuild.co (text to codegen) https://docs.google.com/forms/d/e/1FAIpQLSeI-QTsXJV0cF5MuB7RwgA0QdHEWn7E6zrs7dCHDLHA3s64Dg/viewform
+- codegen
+  - Debuild.co (text to codegen) https://docs.google.com/forms/d/e/1FAIpQLSeI-QTsXJV0cF5MuB7RwgA0QdHEWn7E6zrs7dCHDLHA3s64Dg/viewform
+  - source.ai https://twitter.com/jesuisFurkan57/status/1326248254791688192?s=20
 - AI Channels https://andrewmayneblog.wordpress.com/2020/06/11/the-aichannels-project/
 - Suhail browser autocomplete https://twitter.com/Suhail/status/1284562825084416000?s=20
 - Search Engine https://twitter.com/paraschopra/status/1284801028676653060?s=20
@@ -73,7 +75,7 @@ More:
 - [Taglines.ai](https://www.taglines.ai/) https://twitter.com/chris__lu/status/1290426666477592576?s=20
 - AI email composer https://compose.ai/
 - AI video creator https://www.synthesia.io/
-- https://www.copysmith.ai/ This startup is using GPT-3 for content marketing, just tried it out and it's surprisingly good at generating 2-3 sentence pitches (going off of some key words and a brief description) 
+- https://www.copysmith.ai/ "This startup is using GPT-3 for content marketing, just tried it out and it's surprisingly good at generating 2-3 sentence pitches (going off of some key words and a brief description)"
 - Philosopher.ai philosopher prompting 
 
 
