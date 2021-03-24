@@ -60,6 +60,9 @@ More:
 
 ## Projects/Startups
 
+
+https://trends.vc/trends-0057-ai-generated-content/
+
 - AI Dungeon https://twitter.com/nickwalton00/status/1283143210999484416?s=20
 - codegen
   - Debuild.co (text to codegen) https://docs.google.com/forms/d/e/1FAIpQLSeI-QTsXJV0cF5MuB7RwgA0QdHEWn7E6zrs7dCHDLHA3s64Dg/viewform
