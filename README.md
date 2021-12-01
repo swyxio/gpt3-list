@@ -1,3 +1,5 @@
+> this list is now archived - look inside https://github.com/sw-yx/brain if you would like an updated list! thank you.
+
 # gpt3-list
 
 List of things that people are claiming is enabled by GPT3. unverified but links to sources.
